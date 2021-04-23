@@ -1,0 +1,32 @@
+<package>
+	<id>com.daveapps.quitall</id>
+	<name>QuitAll</name>
+	<version>3.1</version>
+	<compatibility>
+		<firmware>
+ <miniOS>13.0</miniOS>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>QuitAll - an improved version
+
+One tweak to quit them all
+
+QuitAll adds a a button on top of your app/grid switcher, once pressed it clears all apps from the switcher.
+
+For the full & original description: https://chariz.com/get/quitall
+
+Supports iPhone, iPad, and iPod touch running iOS 13.0 - 14.4.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
