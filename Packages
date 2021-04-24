@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Dave van Wijk & 0ldGold
 Depends: firmware (>=13.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.daveapps.quitpro_3.1_iphoneos-arm.deb
+Filename: /debs/com.daveapps.quitpro_3.1_iphoneos-arm.deb
 Size: 517712
 MD5sum: a433d47f21468bb218e82de00ca1658f
 SHA1: 9cc088c2c736c190f0adb1ac39da97ed694d651b
