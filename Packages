@@ -1,15 +1,15 @@
-Package: com.daveapps.quitall
+Package: com.daveapps.quitpro
 Version: 3.1
 Section: Tweaks
 Maintainer: Dave van Wijk & 0ldGold
 Depends: firmware (>=13.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.daveapps.quitall_3.1-1+debug_iphoneos-arm.deb
-Size: 517708
-MD5sum: 7ca093cbb40216195ff22c0a9e62a5cd
-SHA1: 2c80cb68d5d5afc443665cafda4d1127a4376cb5
-SHA256: 8a11432cd4ae7afc3b980b8adda82e76fe2c14121bb9b44f84baf2652b457b1f
+Filename: ./debs/com.daveapps.quitpro_3.1_iphoneos-arm.deb
+Size: 517712
+MD5sum: a433d47f21468bb218e82de00ca1658f
+SHA1: 9cc088c2c736c190f0adb1ac39da97ed694d651b
+SHA256: 4bd1ec5c48b4710f60f4f4ddb37f3eabf9c38b85d4d40e88c3816c6abcbd24d6
 Description: One tweak to quit them all
 Name: QuiAll
 Author: Dave van Wijk & 0ldGold
-Depiction: https://0ldGold.github.io/depictions/?p=com.daveapps.quitall
+Depiction: https://0ldGold.github.io/depictions/?p=com.daveapps.quitpro
