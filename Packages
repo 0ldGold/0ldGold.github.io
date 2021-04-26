@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Dave van Wijk & 0ldGold
 Depends: firmware (>=13.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.daveapps.quitall_3.2-1+debug_iphoneos-arm.deb
+Filename: /debs/com.daveapps.quitall_3.2-1+debug_iphoneos-arm.deb
 Size: 553002
 MD5sum: a9960f86d7e4f712396b155208be4935
 SHA1: 858a2cbb3efe571fb85947549989d7134f2d8544
