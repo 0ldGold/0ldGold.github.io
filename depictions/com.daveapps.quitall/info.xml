@@ -4,8 +4,7 @@
 	<version>3.2</version>
 	<compatibility>
 		<firmware>
- <miniOS>13.0</miniOS>
-			<maxiOS>14.4</maxiOS>
+			<maxiOS>15</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
