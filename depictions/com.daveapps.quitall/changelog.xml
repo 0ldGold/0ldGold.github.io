@@ -1,4 +1,17 @@
 <changelog>
+<changes>
+		<version>3.4</version>
+		<change>What's New :
+- Now you can control the position of the icon, this solve for those who faced an issues with small screen devices.</change>
+	</changes>
+<changes>
+		<version>3.3</version>
+		<change>what's new :
+- Add option to prevent quit media applications.
+- change the style of icon in the original place for the symbol style.
+- improved the position of the icon in the both places.
+- bug fixes.</change>
+	</changes>
 	<changes>
 		<version>3.2</version>
 		<change>What's New :
