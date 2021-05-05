@@ -1,10 +1,11 @@
 <package>
 	<id>com.daveapps.quitall</id>
 	<name>QuitAll</name>
-	<version>3.2</version>
+	<version>3.4</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>15</maxiOS>
+                        <minOS>13.0</miniOS>
+			<maxiOS>14.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
