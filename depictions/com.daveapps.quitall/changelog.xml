@@ -5,14 +5,14 @@
     </changes><changes>
         <version>3.3</version>
         <change><![CDATA[• Add option to prevent quit media applications.<br/>
-• change the style of icon in the original place for the symbol style.<br/>
-• improved the position of the icon in the both places.<br/>
-• bug fixes.]]></change>
+• Change the style of icon in the original place for the symbol style.<br/>
+• Improved the position of the icon in the both places.<br/>
+• Bug fixes.]]></change>
     </changes><changes>
         <version>3.2</version>
         <change><![CDATA[• Add a new place for the icon.<br/>
 • Add an option to configure haptic feedback.<br/>
 • Add a swipe down function to quit all apps.<br/>
-• bug minor fixes.]]></change>
+• Bug minor fixes.]]></change>
     </changes>
 </changelog>
