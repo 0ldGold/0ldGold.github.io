@@ -4,12 +4,15 @@
         <change>- Now you can control the position of the icon, this solve for those who faced an issues with small screen devices.</change>
     </changes><changes>
         <version>3.3</version>
-        <change>- Add option to prevent quit media applications.
+        <change>- Add option to prevent quit media applications.\n
 - change the style of icon in the original place for the symbol style.
 - improved the position of the icon in the both places.
 - bug fixes.</change>
     </changes><changes>
         <version>3.2</version>
-        <change>arm64e support</change>
+        <change>• Add a new place for the icon.
+• Add an option to configure haptic feedback.
+• Add a swipe down function to quit all apps.
+• bug minor fixes. support</change>
     </changes>
 </changelog>
