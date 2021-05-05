@@ -1,23 +1,13 @@
 <changelog>
-<changes>
-		<version>3.4</version>
-		<change>What's New :
-- Now you can control the position of the icon, this solve for those who faced an issues with small screen devices.</change>
-	</changes>
-<changes>
-		<version>3.3</version>
-		<change>what's new :
-- Add option to prevent quit media applications.
-- change the style of icon in the original place for the symbol style.
-- improved the position of the icon in the both places.
-- bug fixes.</change>
-	</changes>
 	<changes>
-		<version>3.2</version>
-		<change>What's New :
-• Add a new place for the icon.
-• Add an option to configure haptic feedback.
-• Add a swipe down function to quit all apps.
-• bug minor fixes.</change>
+		<version>1.0</version>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			•None
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+        	•<i>We've updated the app to fix some crashes and make features load faster.</i>
+            ]]>
+		</change>
 	</changes>
 </changelog>
