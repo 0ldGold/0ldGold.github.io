@@ -15,11 +15,11 @@
 		<description><![CDATA[
             <b>QuitAll - an improved version</b><br/><br/>
 
-One tweak to quit them all<br/>
+<i>One tweak to quit them all</i><br/><br/>
 
-QuitAll adds a a button on top of your app/grid switcher, once pressed it clears all apps from the switcher.<br/>
+QuitAll adds a a button on top of your app/grid switcher, once pressed it clears all apps from the switcher.<br/><br/>
 
-For the full & original description:<a href="https://chariz.com/get/quitall">https://chariz.com/get/quitall</a><br/>
+For the full & original description:<a href="https://chariz.com/get/quitall"> https://chariz.com/get/quitall</a><br/><br/>
 
 Supports iPhone, iPad, and iPod touch running iOS 13.0 - 14.4.
 		]]>
@@ -27,9 +27,17 @@ Supports iPhone, iPad, and iPod touch running iOS 13.0 - 14.4.
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>
+		<image>main.png</image>
+	 </screenshot>
+   <screenshot>
+		<image>2.png</image>
+	 </screenshot>
+	 <screenshot>
+	  <image>3.png</image>
+	 </screenshot>
+         <screenshot>
+	  <image>4.png</image>
+	 </screenshot>
 	</screenshots>
 	<changelog>
         <change>• Now you can control the position of the icon, this solve for those who faced an issues with small screen devices.</change>
