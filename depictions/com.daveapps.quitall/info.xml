@@ -11,21 +11,52 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>One tweak to quit them all.</shortDescription>
 	<descriptionlist>
-		<description>QuitAll - an improved version
+		<description><![CDATA[
+            <br>QuitAll - an improved version</b>
 
 One tweak to quit them all
-
+<b/>
 QuitAll adds a a button on top of your app/grid switcher, once pressed it clears all apps from the switcher.
-
-For the full & original description: https://chariz.com/get/quitall
-
+<b/>
+For the full & original description: https: <a href="https://chariz.com/get/quitall">https://chariz.com/get/quitall</a>
+<b/>
 Supports iPhone, iPad, and iPod touch running iOS 13.0 - 14.4.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots><screenshot>
+		<image>main.png</image>
+	 </screenshot>
+   <screenshot>
+		<image>2.png</image>
+	 </screenshot>
+	 <screenshot>
+	  <image>3.png</image>
+	 </screenshot>
+<screenshot>
+	  <image>4.png</image>
+	 </screenshot></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change><![CDATA[
+			<b>NEW FEATURES:</b><br/>
+			• Now you can control the position of the icon, this solve for those who faced an issues with small screen devices.
+			<br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+        	•None
+ ]]>
+		</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
