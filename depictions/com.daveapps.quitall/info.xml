@@ -1,10 +1,10 @@
 <package>
 	<id>com.daveapps.quitall</id>
-	<name>Dim</name>
-	<version>1.5.4.1</version>
+	<name>QuitAll</name>
+	<version>3.4</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,9 +13,15 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-            <i>NOTE: This is a forked version of thomasfinch's Dim that support iOS 11-12. Source code can be found here: https://github.com/udevsharold/Dim</i><br/><br/>
-            
-		Dim is a jailbreak tweak that lets you dim your iPhone or iPad screen below the minimum brightness by adding a black screen overlay with variable opacity. When enabled (through a Flipswitch toggle, Activator action, or the tweak's settings), the overlay opacity can be changed by using Activator actions or the tweak's settings.
+            QuitAll - an improved version
+
+One tweak to quit them all
+
+QuitAll adds a a button on top of your app/grid switcher, once pressed it clears all apps from the switcher.
+
+For the full & original description: https://chariz.com/get/quitall
+
+Supports iPhone, iPad, and iPod touch running iOS 13.0 - 14.4.
 		]]>
 		</description>
 	</descriptionlist>
@@ -26,7 +32,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-        <change>use ARC</change>
+        <change>- Now you can control the position of the icon, this solve for those who faced an issues with small screen devices.</change>
 	</changelog>
 	<links>
 		<link>
