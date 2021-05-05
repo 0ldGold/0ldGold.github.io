@@ -12,6 +12,7 @@ SHA256: e3d0ddac0a01b9f0237721c2b9601adafcd1cf3fc92fffd0ff2aa4cbe21aee9e
 Section: Tweaks
 Description: One tweak to quit them all
 Author: Dave van Wijk & 0ldGold
+Icon: https://0ldGold.github.io/depictions/com.daveapps.quitall/icon/icon.png
 Depiction: https://0ldGold.github.io/depictions/?p=com.daveapps.quitall
 Name: QuitAll
 
