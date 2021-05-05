@@ -1,13 +1,9 @@
 <changelog>
-	<changes>
-		<version>3.4</version>
-		<change><![CDATA[
-			<b>NEW FEATURES:</b><br/>
-			•None
-			<br/><br/>
-            <b>FIXES & IMPROVEMENTS:</b><br/>
-        	•<i>We've updated the app to fix some crashes and make features load faster.</i>
-            ]]>
-		</change>
-	</changes>
+    <changes>
+        <version>1.5.4.1</version>
+        <change>use ARC</change>
+    </changes><changes>
+        <version>1.5.3</version>
+        <change>arm64e support</change>
+    </changes>
 </changelog>
