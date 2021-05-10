@@ -41,9 +41,9 @@ Supports iPhone, iPad, and iPod touch running iOS 13.0 - 14.4.
 	 </screenshot>
 	</screenshots>
 	<changelog>
-        <change>![CDATA[• Add an animation feature after quitting the applications.<br/>
+        <change><![CDATA[• Add an animation feature after quitting the applications.<br/>
 • Add a confirm button before quit any application as an option in settings.<br/>
-• Redesign settings's preferences for the best.]]</change>
+• Redesign settings's preferences for the best.]]></change>
 	</changelog>
 	<links>
 		<link>
