@@ -16,3 +16,20 @@ Depiction: https://0ldGold.github.io/depictions/?p=com.daveapps.quitall
 Icon: https://0ldGold.github.io/depictions/com.daveapps.quitall/icon/icon.png
 Name: QuitAll
 
+Package: com.daveapps.quitall
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: Dave van Wijk & 0ldGold
+Installed-Size: 608
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: debs/com.daveapps.quitall_3.5_iphoneos-arm.deb
+Size: 612406
+MD5sum: 79105e2652fbf040f23fd48574fdad2e
+SHA1: 2d809959cd0c64e5e13cb24cb424ded516fc9d51
+SHA256: 1d580a31ba59de1bd938de4a5e8c513ea51eca552aa38b7d93358521eee5ceec
+Section: Tweaks
+Description: One tweak to quit them all
+Author: Dave van Wijk & 0ldGold
+Depiction: https://0ldGold.github.io/depictions/?p=com.daveapps.quitall
+Icon: https://0ldGold.github.io/depictions/com.daveapps.quitall/icon/icon.png
+Name: QuitAll
