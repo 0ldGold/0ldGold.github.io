@@ -1,32 +1,57 @@
 <package>
-	<id>com.daveapps.quitall</id>
-	<name>QuitAll</name>
-	<version>3.2</version>
+	<id>com.56yh.eraser</id>
+	<name>Eraser</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
- <miniOS>13.0</miniOS>
-			<maxiOS>14.4</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>13.0</miniOS>
+                        <miniOS>14.5</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package><![CDATA[
+			mobilesubstrate<br/>
+			ws.hbang.common<br/>
+AppList
+			]]>
+		</package>
+	</dependencies>
+	<shortDescription>Clean Up App Switcher By One Step!</shortDescription>
 	<descriptionlist>
-		<description>QuitAll - an improved version
+		<description><![CDATA[
+			 <b>Eraser </b>
+            is a faster tweak to clean up your app/grid switcher just by one step. Two ways to erase them and you can prevent media/navigation applications too. Also your favorite applications can excluded it from erasing process!<br/><br/>
+            
+            <big><b>Appearance</b></big><br/>
+You have four button styles to detect what the most stylish for you. Also you can change the color of the button with three modes. A confirm button you will like it too.<br/><br/>
 
-One tweak to quit them all
+<big><b>Customize</b></big><br/>
+With eraser you can customize the text of button for what text you loved.<br/><br/>
 
-QuitAll adds a a button on top of your app/grid switcher, once pressed it clears all apps from the switcher.
+<big><b>Animations</b></big><br/>
+It's a beautiful added for who boring and want something new. Comes with three modes and you can control of the blur amount.<br/><br/>
 
-For the full & original description: https://chariz.com/get/quitall
+<big><b>Positioning</b></big><br/>
+If you don't like the main position or if you have a small screen device might you faced an issues with the position. But don't worry all fine with positioning section you have control at the both placement.<br/><br/>
 
-Supports iPhone, iPad, and iPod touch running iOS 13.0 - 14.4.</description>
+<big><b>Other Features</b></big><br/>
+There's more features like 'Swipe Down' in the tweak explore it by your self & enjoy!<br/><br/>
+            <b>Supports iPhone and iPad running iOS 13 - 14.5.</b>]]>
+		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+		<image>main.png</image>
+	 </screenshot>
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+        <change><![CDATA[Initial release]]></change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
