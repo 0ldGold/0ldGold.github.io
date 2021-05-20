@@ -1,0 +1,131 @@
+
+{
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#766baf",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**Eraser** is the best tweak to clean up your app/grid switcher just by one step. Two ways to erase them and you can prevent media/navigation applications too. Also your favorite applications can excluded it from erasing process!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Appearance\nYou have four button styles to detect what the most stylish for you. Also you can change the color of the button with three modes. A confirm button you will like it too."
+				},
+{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Customization\nWith eraser you can customize the text of button for what text you loved."
+				},
+{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Animations\nIt's a beautiful added after erse all applications. Comes with three modes and you can control of the blur amount."
+				},
+{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Positioning\nIf you don't like the main position or if you have a small screen device might you faced an issues with the position. But don't worry with positioning section you have control at the both placement."
+				},
+{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Other Features\nThere's more features like 'Swipe Down' in the tweak explore it by your self & enjoy!\n\n *Supports iPhone and iPad running iOS 13 - 14.5.*"
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png",
+							"fullSizeURL": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png",
+								"fullSizeURL": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "About",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "0ldGold",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "0ldGold's Twitter",
+					"action": "https://twitter.com/ial2wi",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Donate via PayPal",
+					"action": "https://www.paypal.com/paypalme/ial2wi",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 arm64e Support!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
