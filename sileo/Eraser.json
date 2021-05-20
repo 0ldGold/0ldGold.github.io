@@ -1,4 +1,3 @@
-
 {
 	"minVersion": "0.1",
 	"headerImage": "https://0ldgold.github.io/depictions/com.56yh.eraser/icon/Banner.png",
@@ -121,4 +120,4 @@
 		}
 	],
 	"class": "DepictionTabView"
-
+}
