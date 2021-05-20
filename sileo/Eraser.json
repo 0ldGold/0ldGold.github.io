@@ -38,8 +38,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png",
-							"fullSizeURL": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png"
+							"url": "https://0ldgold.github.io/depictions/com.56yh.eraser/screenshots/main.png",
+							"fullSizeURL": "https://0ldgold.github.io/depictions/com.56yh.eraser/screenshots/main.png"
 						}
 					],
 					"ipad": {
@@ -48,8 +48,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png",
-								"fullSizeURL": "https://0ldgold.github.io/depictions/?p=com.56yh.eraser/screenshots/main.png"
+								"url": "https://0ldgold.github.io/depictions/com.56yh.eraser/screenshots/main.png",
+								"fullSizeURL": "https://0ldgold.github.io/depictions/com.56yh.eraser/screenshots/main.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
@@ -103,15 +103,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 arm64e Support!",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
+				
 				},
 				{
 					"title": "1.0",
@@ -120,7 +112,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial Release!",
+					"markdown": "\t\n\u2022 Initial release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
