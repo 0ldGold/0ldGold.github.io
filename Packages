@@ -1,0 +1,19 @@
+Package: com.56yh.eraser
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 0ldGold
+Installed-Size: 700
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common, applist
+Filename: debs/com.56yh.eraser_1.0_iphoneos-arm.deb
+Size: 681042
+MD5sum: 19ba08aa5e11814e823f39837cbf7a4d
+SHA1: cedc2b3ae1b68f8d9b29eb3d2a40551a22262608
+SHA256: 393526933856e473761d6ca508b5636752b5aec47eede8042841ab17c2e1406f
+Section: Tweaks
+Description: How to clean up app switcher? yes, use eraser!
+Author: 0ldGold
+Depiction: https://0ldGold.github.io/depictions/?p=com.56yh.eraser
+Icon: https://0ldGold.github.io/depictions/com.56yh.eraser/icon/icon.png
+Name: Eraser
+Sileodepiction: https://0ldGold.github.io/sileo/Eraser.json
+
