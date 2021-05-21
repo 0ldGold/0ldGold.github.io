@@ -13,7 +13,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Appearance\nYou have four button styles to detect what the most stylish for you. Also you can change the color of the button with three modes. A confirm button you will like it too."
+					"markdown": "## AppearanceYou have four button styles to detect what the most stylish for you. Also you can change the color of the button with three modes. A confirm button you will like it too."
 				},
                                 {
 					"class": "DepictionMarkdownView",
@@ -25,12 +25,16 @@
 				},
                                 {
 					"class": "DepictionMarkdownView",
-					"markdown": "## Positioning\nIf you don't like the main position or if you have a small screen device might you faced an issues with the position. But don't worry with positioning section you have control at the both placement."
+					"markdown": "### Positioning\nIf you don't like the main position or if you have a small screen device might you faced an issues with the position. But don't worry with positioning section you have control at the both placement."
 				},
                                 {
 					"class": "DepictionMarkdownView",
-					"markdown": "## Other Features\nThere's more features like 'Swipe Down' in the tweak explore it by your self & enjoy!\n\n\n\n *Supports iPhone and iPad running iOS 13 - 14.5.*"
+					"markdown": "## Other Features\nThere's more features like 'Swipe Down' in the tweak explore it by your self & enjoy!"
 				},
+                                {
+					"class": "DepictionMarkdownView",
+					"markdown": "*Supports iPhone and iPad running iOS 13 - 14.5.*"
+                                },
 				{
 					"itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
@@ -55,6 +59,10 @@
                         {
                             "accessibilityText": "Screenshot4",
                             "url": "https://0ldgold.github.io/depictions/com.56yh.eraser/screenshots/4.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://0ldgold.github.io/depictions/com.56yh.eraser/screenshots/5.png"
                         }
                     ]},
 				{
