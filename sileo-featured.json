@@ -7,7 +7,7 @@
          "url":"https://0ldgold.github.io/depictions/com.56yh.eraser/icon/Banner.png",
          "title":"Eraser",
          "package":"com.56yh.eraser",
-         "hideShadow":true
+         "hideShadow":false
       }
    ]
 }
