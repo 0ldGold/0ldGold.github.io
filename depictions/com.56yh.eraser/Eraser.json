@@ -13,7 +13,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## AppearanceYou have four button styles to detect what the most stylish for you. Also you can change the color of the button with three modes. A confirm button you will like it too."
+					"markdown": "## AppearanceYou\nhave four button styles to detect what the most stylish for you. Also you can change the color of the button with three modes. A confirm button you will like it too."
 				},
                                 {
 					"class": "DepictionMarkdownView",
@@ -25,7 +25,7 @@
 				},
                                 {
 					"class": "DepictionMarkdownView",
-					"markdown": "### Positioning\nIf you don't like the main position or if you have a small screen device might you faced an issues with the position. But don't worry with positioning section you have control at the both placement."
+					"markdown": "## Positioning\nIf you don't like the main position or if you have a small screen device might you faced an issues with the position. But don't worry with positioning section you have control at the both placement."
 				},
                                 {
 					"class": "DepictionMarkdownView",
@@ -33,7 +33,7 @@
 				},
                                 {
 					"class": "DepictionMarkdownView",
-					"markdown": "*Supports iPhone and iPad running iOS 13 - 14.5.*"
+					"markdown": "### *Supports iPhone and iPad running iOS 13 - 14.5.*"
                                 },
 				{
 					"itemCornerRadius": 6,
