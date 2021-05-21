@@ -5,13 +5,14 @@ Maintainer: 0ldGold
 Installed-Size: 700
 Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common, applist
 Filename: debs/com.56yh.eraser_1.0_iphoneos-arm.deb
-Size: 681022
-MD5sum: 7bea39196a60e6554efe70732706e3f7
-SHA1: 68c74df7ac7f56fb11c6235e5777044360d46ff6
-SHA256: bc385de331064443aa44d129ecfbe28cc16d64c0da167a1066ea1a6fa11bdd19
+Size: 681040
+MD5sum: 84f68cf09dac8f067b338d2253c6e8c2
+SHA1: d6d59f0b55d016ec7e5c9468d9bf8974f449c5f9
+SHA256: eec8791c487cf79f91fadde05672fa9e4e14dc7e7f759f8b9b4e0aa25d1bad33
 Section: Tweaks
 Description: How to clean up app switcher? yes, use eraser!
 Author: 0ldGold
 Depiction: https://0ldGold.github.io/depictions/?p=com.56yh.eraser
 Icon: https://0ldGold.github.io/depictions/com.56yh.eraser/icon/icon.png
 Name: Eraser
+Sileodepiction: https://0ldGold.github.io/depictions/com.56yh.eraser/Eraser.json
