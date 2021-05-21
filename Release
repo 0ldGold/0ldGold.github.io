@@ -1,0 +1,8 @@
+Origin: 0ldGold's Repo
+Label: 0ldGold's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A main home for 0ldGold's tweaks!
