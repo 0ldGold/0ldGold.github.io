@@ -1,0 +1,13 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+      {  
+         "url":"https://0ldgold.github.io/depictions/com.56yh.eraser/icon/Banner.png",
+         "title":"Eraser",
+         "package":"com.56yh.eraser",
+         "hideShadow":true
+      }
+   ]
+}
