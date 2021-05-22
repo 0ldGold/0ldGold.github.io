@@ -1,10 +1,10 @@
 <changelog>
         <changes>
 		<version>1.1</version>
-		<change>- Add a new mode of button\r\n- Add customize a text of confirm button\r\n- Add customize a color of confirm button</change>
+		<change><![CDATA[• Add a new mode of button<br/>• Add customize a text of confirm button<br/>• Add customize a color of confirm button]]></change>
 	</changes>
 	<changes>
 		<version>1.0</version>
-		<change>- Initial release</change>
+		<change>• Initial release</change>
 	</changes>
 </changelog>
