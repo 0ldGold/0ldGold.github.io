@@ -123,7 +123,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Add a new mode of button. \n\u2022 Add customize a text of confirm button. \n\u2022 Add customize a color of confirm button.",
+					"markdown": "\t\n\u2022 Add a new mode of button.","\t\n\u2022 Add customize a text of confirm button.","\t\n\u2022 Add customize a color of confirm button.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
