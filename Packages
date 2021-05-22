@@ -16,3 +16,22 @@ Depiction: https://0ldGold.github.io/depictions/?p=com.56yh.eraser
 Icon: https://0ldGold.github.io/depictions/com.56yh.eraser/icon/icon.png
 Name: Eraser
 Sileodepiction: https://0ldGold.github.io/depictions/com.56yh.eraser/Eraser.json
+
+Package: com.56yh.eraser
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 0ldGold
+Installed-Size: 704
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common, applist, ws.hbang.alderis
+Filename: debs/com.56yh.eraser_1.1_iphoneos-arm.deb
+Size: 684110
+MD5sum: 5f86620086400fdbe7e5c7e6035cde26
+SHA1: 592de845f00c8813274b0a573d9d23fab2b9e2ad
+SHA256: f7d09fa7208d2f6fda2b74b9862a73e30d9c154d2cd9f67e82778ecbd01d0c43
+Section: Tweaks
+Description: Clean Up App Switcher By One Step.
+Author: 0ldGold
+Depiction: https://0ldGold.github.io/depictions/?p=com.56yh.eraser
+Icon: https://0ldGold.github.io/depictions/com.56yh.eraser/icon/icon.png
+Name: Eraser
+Sileodepiction: https://0ldGold.github.io/depictions/com.56yh.eraser/Eraser.json
