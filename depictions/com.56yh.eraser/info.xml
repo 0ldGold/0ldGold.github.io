@@ -10,8 +10,10 @@
 	</compatibility>
 	<dependencies>
 		<package><![CDATA[
+                        
 			mobilesubstrate<br/>
 			ws.hbang.common<br/>
+ws.hbang.alderis<br/>
 AppList
 			]]>
 		</package>
@@ -60,7 +62,7 @@ There's more features like 'Swipe Down' in the tweak explore it by your self & e
 	 </screenshot>
 	</screenshots>
 	<changelog>
-        <change><![CDATA[Initial release]]></change>
+        <change><![CDATA[• Add a new mode of button<br/>• Add customize a text of confirm button<br/>• Add customize a color of confirm button]]></change>
 	</changelog>
 	<links>
 		<link>
