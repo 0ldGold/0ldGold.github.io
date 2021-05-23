@@ -138,9 +138,7 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
-                                {
-					"class": "DepictionSeparatorView"
-				},
+                                
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 15
