@@ -1,7 +1,7 @@
 <package>
 	<id>com.56yh.eraser</id>
 	<name>Eraser</name>
-	<version>1.1</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -62,7 +62,7 @@ There's more features like 'Swipe Down' in the tweak explore it by your self & e
 	 </screenshot>
 	</screenshots>
 	<changelog>
-        <change><![CDATA[• Add a new mode of button<br/>• Add customize a text of confirm button<br/>• Add customize a color of confirm button]]></change>
+        <change><![CDATA[• Bug fixes & some improvements.]]></change>
 	</changelog>
 	<links>
 		<link>
