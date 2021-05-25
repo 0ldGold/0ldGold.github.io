@@ -116,6 +116,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+                                {
+					"title": "1.1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Bug fixes & some improvements.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.1",
 					"useBoldText": true,
@@ -123,7 +134,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "- Add a new mode of button\r\n- Add customize a text of confirm button\r\n- Add customize a color of confirm button",
+					"markdown": "- Added a new mode for the button.\r\n- Added customize a text of confirm button.\r\n- Added customize a color of confirm button (Required Alderis Color Picker).",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -134,7 +145,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "- Initial release",
+					"markdown": "- Initial release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
