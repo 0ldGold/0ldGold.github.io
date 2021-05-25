@@ -1,10 +1,14 @@
 <changelog>
         <changes>
+		<version>1.1.1</version>
+		<change><![CDATA[• Bug fixes & some improvements.]]></change>
+	</changes>
+        <changes>
 		<version>1.1</version>
-		<change><![CDATA[• Add a new mode of button<br/>• Add customize a text of confirm button<br/>• Add customize a color of confirm button]]></change>
+		<change><![CDATA[• Added a new mode for the button.<br/>• Added customize a text of confirm button.<br/>• Added customize a color of confirm button (Required Alderis Color Picker).]]></change>
 	</changes>
 	<changes>
 		<version>1.0</version>
-		<change>• Initial release</change>
+		<change>• Initial release.</change>
 	</changes>
 </changelog>
