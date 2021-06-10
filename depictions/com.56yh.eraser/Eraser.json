@@ -74,7 +74,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1.1",
+					"text": "1.1.2",
 					"class": "DepictionTableTextView"
 				},
 	                        {
@@ -123,7 +123,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "- Added confirm alert for swipe feature./r/n- Increase the bouttons size./r/n- Increase the limit of horizontal position at the top, now you can move the button to the left side./r/n- Fixed an issue with the confirm button display.",
+					"markdown": "- Added confirm alert for swipe feature.\r\n- Increase the buttons size.\r\n- Increase the limit of horizontal position at the top, now you can move the button to the left side.\r\n- Fixed an issue with the confirm button display.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
